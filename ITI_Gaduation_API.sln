@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITI_Gaduation", "ITI_Gaduation\ITI_Gaduation.csproj", "{7DDAC7B5-6C70-4585-BB9F-E5D8A52DCA9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DDAC7B5-6C70-4585-BB9F-E5D8A52DCA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DDAC7B5-6C70-4585-BB9F-E5D8A52DCA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DDAC7B5-6C70-4585-BB9F-E5D8A52DCA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DDAC7B5-6C70-4585-BB9F-E5D8A52DCA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {174A972A-C49A-4009-8D07-C88CFE68CE8A}
+	EndGlobalSection
+EndGlobal

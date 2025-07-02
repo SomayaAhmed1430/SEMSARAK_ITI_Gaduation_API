@@ -1,0 +1,6 @@
+@ITI_Gaduation_HostAddress = http://localhost:5257
+
+GET {{ITI_Gaduation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
